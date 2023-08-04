@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/jason-leung-ib9VYKG5zyU-unsplash.jpg) no-repeat center center fixed;
     background-size: cover;
    height: 100%;
 }
@@ -130,10 +130,12 @@ body {
     padding: 0px 30px;
     width: 300px;
     height: 300px;
+    text-align: center;
 }
 
 #content p span {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3em;
 }
 
 
